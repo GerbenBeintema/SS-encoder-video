@@ -6,7 +6,7 @@ The code accompanying a upcoming paper.
 
 * Get anaconda 3 (python>= 3.6)
 * Install pytorch ([Instructions](https://pytorch.org/get-started) CUDA optional)
-* Install [deepSI](https://github.com/GerbenBeintema/deepSI) (our preliminary toolbox, version used `d4d21112325d10719fbb0a5561ef70c3bab87df8`)
+* Install [deepSI](https://github.com/GerbenBeintema/deepSI) (our preliminary toolbox, version used `0216a6fe9f86d93fb1296de71af2289295dae1bf`)
   * `git clone git@github.com:GerbenBeintema/deepSI.git` 
   * `cd deepSI`
   * `pip install -e .`
